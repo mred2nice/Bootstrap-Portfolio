@@ -1,0 +1,71 @@
+/**
+/ 7/27/17 Bootstrap-Portfolio
+**/
+
+.navbar-custom {
+    background-color:#ffffff;
+    color:#777777;
+    border-bottom: 2px;
+    border-bottom-color:#cccccc;
+    border-bottom-style: solid;
+    border-bottom-width: 100%;
+    margin-right: 125px; 
+}
+
+.navbar-brand{
+  background-color:#ffffff;
+  color:#4aaaa5;
+  padding-left:210px;
+ font-size:35px;
+}
+
+#Pic1{
+  float:left;
+  margin-right: 43px;
+  margin-bottom: 10px;
+}
+
+#Pic2{
+  margin-bottom: 10px;
+}
+
+#Pic3{
+  float:left;
+  margin-right: 43px;
+  margin-bottom: 10px;
+}
+
+#Pic4{
+   margin-right: 43px;
+  margin-bottom: 10px;
+}
+
+#Pic5{
+  float:left;
+  margin-right: 43px;
+  margin-bottom: 10px;
+}
+
+#Pic6{
+   margin-right: 43px;
+  margin-bottom: 10px;
+}
+
+#footer {
+    bottom: 0;
+    height: 84px;
+    width: 100%;
+    position: absolute;
+    border-top-style: solid;
+    border-top-color: #4aaaa5;
+    font-size: 14px;
+    color: white;
+    line-height: 80px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    height: $height-footer;
+    background-color: #666666;
+    .footer-block {
+      margin: 0px 0;
+    }
+  }
